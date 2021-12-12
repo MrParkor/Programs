@@ -1,0 +1,494 @@
+MrParkour
+#0908
+
+[9:30 AM] :
+Image
+[9:45 AM] : Søtoftes Jordbrug
+Søtoftevej 74
+4100 Ringsted
+Telefon: 27202878
+CVR: 38477323
+[9:48 AM] : Pick-up steder:
+Kødbyen - udenfor Prolog Kaffebar kl. 15.30-16.00.
+Nørrebro - udenfor Café Stadion kl. 16.30-17.00.
+Roskilde - parkeringspladsen på Lindenborgvej kl. 17.45-18.00.
+[1:59 PM] : Jeg er så fucking træt af aya
+[7:10 PM] : Jeg skal gå lidt tidligere fra træning i dag
+[8:02 PM] MrParkour: Hvad da??
+[9:54 PM] MrParkour:
+Image
+[9:54 PM] : Hva så?
+[9:55 PM] MrParkour: Sry forkert person
+[1:13 PM] MrParkour:
+[11:00 AM] : https://www.buzzfeed.com/isabelm4f2272ead/do-the-ghosts-want-to-kill-you-ar2t19gb4l
+BuzzFeed Community
+Would You Survive A Haunting?
+French ghost: How do you say... boo?
+
+[9:35 AM] :
+Image
+[10:01 AM] :
+Image
+[10:03 AM] :
+Image
+[9:42 AM] MrParkour: https://www.buzzfeed.com/quizparty/97hwQvtb9cW_hA19_DQoG
+BuzzFeed Quiz Party
+The new fun way to take BuzzFeed quizzes with friends!
+
+[11:12 AM] MrParkour: Love u too 🤣
+[11:12 AM] : go die
+[11:13 AM] MrParkour: You love me
+[11:13 AM] : i dont and will never do
+[11:13 AM] MrParkour: Yeah, but not in a romantic way... But you still love me.
+[11:14 AM] : no i dont
+[11:14 AM] : i hate you more
+[11:14 AM] : then i have ever hated anything
+[11:14 AM] MrParkour: You love me.
+[11:14 AM] MrParkour: You won't admit it, but you do
+[11:15 AM] : NO!!!!!!!!!!!!!
+[11:27 AM] : https://www.buzzfeed.com/quizparty/UuMDmB-78WMIAMJEQyvP1
+BuzzFeed Quiz Party
+The new fun way to take BuzzFeed quizzes with friends!
+
+[1:03 PM] : https://www.buzzfeed.com/quizparty/zGhec2A0ycK4rSACbRy11
+BuzzFeed Quiz Party
+The new fun way to take BuzzFeed quizzes with friends!
+
+[8:50 AM] : Never gonna give you up
+[8:51 AM] : cause im gonna give me up
+[8:55 AM] : ADHD
+Anxiety
+Crippling depression
+There is no question
+You should kill me
+Let me be with Harambe
+I fell like shit everyday
+I'm asking nicely
+Do it by drowning
+Under the sea
+[8:56 AM] : I
+ADHD
+Anxiety
+Crippling depression
+There is no question
+You should kill me
+Let me be with Harambe
+I fell like shit everyday
+I'm asking nicely
+Do it by drowning
+Under the sea
+[12:58 PM] MrParkour:
+fname = input("Enter file: ")
+if len(fname) < 1 : fname = "Test.txt"
+hand = open(fname)
+
+di = dict()
+for lin in hand:
+Expand
+video.py
+1 KB
+[8:00 PM] : Jeg kommer lige 5 min senere jeg skal hjælpe bingo med noget
+[10:45 AM] MrParkour:
+Image
+[10:45 AM] MrParkour:
+Image
+[10:46 AM] MrParkour:
+Image
+[10:46 AM] MrParkour:
+Image
+[9:06 AM] MrParkour: Jeg når ikke dem alle
+[9:06 AM] : Dumt
+[9:06 AM] : jeg kan bare ikke dem alle
+[9:06 AM] MrParkour: Jeg er kun på 107
+[9:06 AM] : same
+[9:07 AM] : jege er på 108
+[9:14 AM] : hvordan exportere man koden
+[9:14 AM] MrParkour: fisk
+[9:14 AM] : fuck
+[9:18 AM] : Jeg giver op på de 2 sidste
+[9:21 AM] MrParkour: Jeg satte bare tekten ind i acrobat og kaldte det en dag
+[9:22 AM] : ok
+[9:15 AM] :
+Miusov, as a man man of breeding and deilcacy, could not but feel some inwrd qualms, when he reached the Father Superior's with Ivan: he felt ashamed of havin lost his temper. He felt that he ought to have disdaimed that despicable wretch, Fyodor Pavlovitch, too much to have been upset by him in Father Zossima's cell, and so to have forgotten himself. "Teh monks were not to blame, in any case," he reflceted, on the steps. "And if they're decent people here (and the Father Superior, I understand, is a nobleman) why not be friendly and courteous withthem? I won't argue, I'll fall in with everything, I'll win them by politness, and show them that I've nothing to do with that Aesop, thta buffoon, that Pierrot, and have merely been takken in over this affair, just as they have."
+
+He determined to drop his litigation with the monastry, and relinguish his claims to the wood-cuting and fishery rihgts at once. He was the more ready to do this becuase the rights had becom much less valuable, and he had indeed the vaguest idea where the wood and river in quedtion were.
+
+These excellant intentions were strengthed when he enterd the Father Superior's diniing-room, though, stricttly speakin, it was not a dining-room, for the Father Superior had only two rooms alltogether; they were, however, much larger and more comfortable than Father Zossima's. But tehre was was no great luxury about the furnishng of these rooms eithar. The furniture was of mohogany, covered with leather, in the old-fashionned style of 1820 the floor was not even stained, but evreything was shining with cleanlyness, and there were many chioce flowers in the windows; the most sumptuous thing in the room at the moment was, of course, the beatifuly decorated table. The cloth was clean, the service shone; there were three kinds of well-baked bread, two bottles of wine, two of excellent mead, and a large glass jug of kvas -- both the latter made in the monastery, and famous in the neigborhood. There was no vodka. Rakitin related afterwards that there were five dishes: fish-suop made of sterlets, served with little fish paties; then boiled fish served in a spesial way; then salmon cutlets, ice pudding and compote, and finally, blanc-mange. Rakitin found out about all these good things, for he could not resist peeping into the kitchen, where he already had a footing. He had a footting everywhere, and got informaiton about everything. He was of an uneasy and envious temper. He was well aware of his own considerable abilities, and nervously exaggerated them in his self-conceit. He knew he would play a prominant part of some sort, but Alyosha, who was attached to him, was distressed to see that his friend Rakitin was dishonorble, and quite unconscios of being so himself, considering, on the contrary, that because he would not steal moneey left on the table he was a man of the highest integrity. Neither Alyosha nor anyone else could have infleunced him in that.
+
+Expand
+message.txt
+20 KB
+[9:16 AM] :  — 03/31/2021
+skal du vører med til csgo
+ — 03/31/2021
+Sorry er ikke hjemme
+ — 04/01/2021
+kommer du på cs go i dag skule spare fra matthias
+ — 04/01/2021
+Er ikke hjemme før i morgen aften og skal arbejde lørdag så kommer nok ikke online de næste par dage
+ — 04/24/2021
+https://www.idrlabs.com/gender/test.php
+IDRlabs
+Gender Role Test
+This test measures your personality on the basis of gender roles and the cultural conceptions of gender.
+
+Her
+ — 04/24/2021
+https://discord.gg/wtdjTmbs
+ — 05/12/2021
+cs
+ — 05/17/2021
+cs med Matthies
+ — 05/17/2021
+Sorry har træning
+ — 05/17/2021
+ok
+ — 05/20/2021
+cs
+ — 05/27/2021
+cs
+ — 05/27/2021
+Sorry er på arbejde
+ — 05/27/2021
+ok
+ — 06/07/2021
+Sorry sidder I en bil har lige været på Falster
+ — 06/10/2021
+comp
+ — 06/10/2021
+Sorry var ude og shoppe med min familie og skal have kage om lidt
+ — 06/15/2021
+Vil du spille cs vi er 3
+ — 06/15/2021
+ja
+ — 06/15/2021
+Sorry vi er færdig
+ — 06/16/2021
+vil du spille
+ — 06/16/2021
+kan vi ikke spille på fradag
+ — 06/19/2021
+cs
+ — 06/19/2021
+Sorry er sammen med min kusine
+ — 06/19/2021
+sener
+ — 06/19/2021
+cs
+ — 06/19/2021
+Sorry sidder lige og laver en minecraft server
+ — 06/19/2021
+Vil du spille en comp
+ — 06/19/2021
+vene
+ — 06/24/2021
+cs
+ — 06/24/2021
+Sorry er lidt træt
+ — 06/24/2021
+senere
+ — 06/24/2021
+Skal arbejde tidligt i weekenden så kan ikke være for længe oppe
+ — 06/24/2021
+ok sår cs senere
+?
+ — 06/24/2021
+Sure
+ — 06/24/2021
+ok
+ — 06/24/2021
+cs ?
+ — 06/24/2021
+Ser lige noget med mine forældre
+ — 06/24/2021
+ok du bar komme på venneserver nå det er
+ — 06/24/2021
+Yes
+ — 06/26/2021
+skal vi spille valorant?
+IDRlabs
+Gender Role Test
+This test measures your personality on the basis of gender roles and the cultural conceptions of gender.
+
+[9:17 AM] :
+
+ — 08/31/2021
+hey
+ — 08/31/2021
+Hey
+ — 08/31/2021
+hvad laver du
+ — 08/31/2021
+Snakker med min far
+Dig?
+ — 08/31/2021
+skiver til dig og trener cs
+ — 08/31/2021
+Nice
+ — 08/31/2021
+jaer
+ — 09/02/2021
+hey skal vi spille
+ — 09/02/2021
+Sorry jeg er lidt syg i dag og har ikke rigtig noget energi
+ — 09/02/2021
+ok
+ — 09/07/2021
+Overvej at man ikke bliver inviteret til sin bedste vens 18 år fødselsdag men deres andre venner gør
+ — 09/07/2021
+Skal vi snakke
+ — 09/07/2021
+vil du spille cs
+
+ started a call that lasted an hour.
+ — 09/07/2021
+ — 09/10/2021
+spile ?
+ — 09/10/2021
+Er i skole
+ — 09/13/2021
+spille
+ — 09/13/2021
+sorry har en engelsk opgave jeg skal have lavet færdig
+skal afleveres på fredag og har travlt ons, tors og fredag efter skole
+ — 09/13/2021
+okay
+ — 09/19/2021
+spille
+ — 09/19/2021
+spille
+skal vi spille valorant
+ — 09/19/2021
+Skal have noget at spise og efter lave lektier
+ — 09/19/2021
+Sår vi skal ik spille
+ — 09/19/2021
+kan desværre ikke
+ — 09/21/2021
+spille
+ — 09/21/2021
+Sorry er først lige kommet hjem
+ — 09/26/2021
+skal vi spille mincaft
+ — 09/26/2021
+Jeg er DSV ikke hjemme lige nu
+ — 09/26/2021
+Image
+ — 09/26/2021
+Haha
+ — 09/26/2021
+ja ik
+kan du spille senere
+ — 09/26/2021
+Nej
+Er ikke kørt fra sommerhuset endnu
+ — 09/26/2021
+okay
+ — 09/27/2021
+skal vi spille
+ — 09/27/2021
+Jeg skal male paneler
+ — 09/27/2021
+okay sener
+ — 09/27/2021
+skal vi spille
+ — 09/27/2021
+Jeg er for træt
+ — 09/28/2021
+spille ?
+ — 09/28/2021
+Tror ikke jeg kan nå det
+tror jeg skal lave mad om ca 30 min
+ — 09/28/2021
+sener +
+?
+ — 09/28/2021
+Sure
+ — 09/28/2021
+ns du skiver bare nå du har spiste
+ — 09/28/2021
+yes
+ — 09/28/2021
+Jeg er nok først klar omkring kl 20
+ — 09/28/2021
+... (100 lines left)
+Collapse
+message.txt
+6 KB
+[9:24 AM] :
+
+#0923
+SugarDD
+
+  — 10/23/2020
+Du addede mig på fb
+ — 10/23/2020
+Jep
+  — 10/23/2020
+Nice
+Er det et godt hold i har?
+ — 10/23/2020
+Kinda
+  — 10/23/2020
+Hvorfor kun kinda?
+ — 10/23/2020
+vi har lidt problemer med opmødning
+  — 10/23/2020
+Ahah kender
+Skal dig/Malthe så ik lige hive fat i dem?
+ — 10/23/2020
+det har vi gjort
+og nu har vi en reserve
+  — 10/23/2020
+Hvorfor det
+Er det ik bare at sige at i skal spille et spil på søndag kl 20-22 og dem der ik møder op er af
+Og så find nogle der gerne vil spille
+ — 10/23/2020
+der er nogle som der ikke har mulighed for at komme
+  — 10/23/2020
+Hver gang?
+ — 10/23/2020
+næsten
+vi har kun været fuldt hold 1 gang
+  — 10/23/2020
+Tag en snak med dem hvorfor de ik kan
+ — 10/23/2020
+det har vi
+der er alt muligt i vejen
+og vi har sagt hvis de gør det samme igen er de af holdet
+  — 10/23/2020
+Så sig at i tager dem som reserve og kig på andre hvis den/de spillere så vil holdet så stepper de op og gør plads og tid
+ — 10/23/2020
+det gør vi også
+vi har en vi snart skal spille med og så har vi skrevet ud om der er nogle der vil joine
+  — 10/23/2020
+Hvor mange har i så der gerne vil give holdet en chance
+Jeg er altid til rådighed så hvis i mangler en stand in sp skriv
+ — 10/23/2020
+lige nu i hvert fald 3
+og ved ikke med de sidste 3
+  — 10/23/2020
+Okay nice
+wingman?
+ — 10/23/2020
+sorry har lige spillet jeg ved ikke hvor mange har lige brug for en pause
+  — 10/23/2020
+nårh nederen xD
+så tager vi bare en comp så får du pause fra wingman der  😂
+ — 10/23/2020
+skal snart lave cookies og spise
+  — 10/23/2020
+bare sig du ik gider mig xD
+ — 10/23/2020
+det er ikke det sidder bare og laver noget andet og mine forældre skal til at bestille mad
+  — 10/23/2020
+hvad skal i have+
+ — 10/23/2020
+sunset
+  — 10/23/2020
+what jeg joiner
+ — 10/23/2020
+det er nok lidt svært
+  — 10/23/2020
+why
+ — 10/23/2020
+de er i gang med at bestile
+  — 10/23/2020
+rip xD
+ — 10/26/2020
+https://discord.gg/hTrNch
+Vi kan ikke bruge den normale server så vi har lavet vores egen
+  — 10/26/2020
+Okay forståeligt
+  — 10/26/2020
+den der server hvad skal den bruges til er det der i spiller eller
+Collapse
+message.txt
+3 KB
+﻿
+
+#0923
+SugarDD
+
+  — 10/23/2020
+Du addede mig på fb
+ — 10/23/2020
+Jep
+  — 10/23/2020
+Nice
+Er det et godt hold i har?
+ — 10/23/2020
+Kinda
+  — 10/23/2020
+Hvorfor kun kinda?
+ — 10/23/2020
+vi har lidt problemer med opmødning
+  — 10/23/2020
+Ahah kender
+Skal dig/Malthe så ik lige hive fat i dem?
+ — 10/23/2020
+det har vi gjort
+og nu har vi en reserve
+  — 10/23/2020
+Hvorfor det
+Er det ik bare at sige at i skal spille et spil på søndag kl 20-22 og dem der ik møder op er af
+Og så find nogle der gerne vil spille
+ — 10/23/2020
+der er nogle som der ikke har mulighed for at komme
+  — 10/23/2020
+Hver gang?
+ — 10/23/2020
+næsten
+vi har kun været fuldt hold 1 gang
+  — 10/23/2020
+Tag en snak med dem hvorfor de ik kan
+ — 10/23/2020
+det har vi
+der er alt muligt i vejen
+og vi har sagt hvis de gør det samme igen er de af holdet
+  — 10/23/2020
+Så sig at i tager dem som reserve og kig på andre hvis den/de spillere så vil holdet så stepper de op og gør plads og tid
+ — 10/23/2020
+det gør vi også
+vi har en vi snart skal spille med og så har vi skrevet ud om der er nogle der vil joine
+  — 10/23/2020
+Hvor mange har i så der gerne vil give holdet en chance
+Jeg er altid til rådighed så hvis i mangler en stand in sp skriv
+ — 10/23/2020
+lige nu i hvert fald 3
+og ved ikke med de sidste 3
+  — 10/23/2020
+Okay nice
+wingman?
+ — 10/23/2020
+sorry har lige spillet jeg ved ikke hvor mange har lige brug for en pause
+  — 10/23/2020
+nårh nederen xD
+så tager vi bare en comp så får du pause fra wingman der  😂
+ — 10/23/2020
+skal snart lave cookies og spise
+  — 10/23/2020
+bare sig du ik gider mig xD
+ — 10/23/2020
+det er ikke det sidder bare og laver noget andet og mine forældre skal til at bestille mad
+  — 10/23/2020
+hvad skal i have+
+ — 10/23/2020
+sunset
+  — 10/23/2020
+what jeg joiner
+ — 10/23/2020
+det er nok lidt svært
+  — 10/23/2020
+why
+ — 10/23/2020
+de er i gang med at bestile
+  — 10/23/2020
+rip xD
+ — 10/26/2020
+https://discord.gg/hTrNch
+Vi kan ikke bruge den normale server så vi har lavet vores egen
+  — 10/26/2020
+Okay forståeligt
+  — 10/26/2020
+den der server hvad skal den bruges til er det der i spiller eller

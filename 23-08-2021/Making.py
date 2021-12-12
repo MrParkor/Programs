@@ -1,0 +1,7 @@
+num1 = int(input("What is your First number? \n"))
+num2 = int(input("What is your Second number? \n"))
+print("Your first number + your second number is", num1 + num2)
+print("Your first number - with your second number is", num1 - num2)
+print("Your first number * with your second number is", num1 * num2)
+print("Your first number / with your second number is", num1 / num2)
+print("Your first number raised with your second number is", num1 ** num2)

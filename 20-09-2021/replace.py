@@ -1,0 +1,12 @@
+Name = input("Enter a Name: ")
+Name2 = input("Enter the replacement name: ")
+greet = "Hello" + " " + Name
+print("Normal: ", greet)
+print()
+print(f"Lowercase:", greet.lower())
+print()
+Test = str(greet).replace(Name, Name2)
+print("Normal", Test)
+print()
+print(f"Lowercase:", Test.lower())
+print()
