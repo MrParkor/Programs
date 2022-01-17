@@ -16,4 +16,6 @@ class Student(Person):
         super().__init__(FirstName, LastName, HairColor, Age)
         self.Number = Number
         Number = N
+
+        
 S1 = Student("Mark", "T", "brown", "18", "15")
